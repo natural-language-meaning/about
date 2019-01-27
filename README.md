@@ -1,4 +1,4 @@
 # about
 This research organization has devoted its efforts to discovering the ways of formalization and representation of meaning contained in texts and speech in natural language.<br><br>
 "In recent years, indeed, the existence and importance of this problem of Meaning have been generally admitted, but by some sad chance those who have attempted a solution have too often been forced to relinquish their ambition - whether through old age, like Leibnitz, or penury, like C. S. Peirce, or both. Even the methods by which it is to be attacked have remained in doubt. Each science has tended to delegate the unpleasant task to another. With the errors and omissions of metaphysicians we shall be much concerned in the sequel, and philologists must bear their share of the guilt. Yet it is a philologist who, of recent years, has, perhaps, realized most clearly the necessity of a broader treatment." (C.K. Ogden, "The Meaning of Meaning")<br><br>
-Now the baton has been passed to computer scientists.
+Now the baton has been passed to (meta)mathematicians and computer scientists.
