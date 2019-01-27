@@ -1,7 +1,7 @@
 """
 It is important to understand the etymology of words 'mean', 'meaning',
-'mind'. The underlying word is a verb representing the _process_ of thinking something over, represented in our contemporary English by the verbs 'mean' and 'mind'.
-In this sense the proverbial 'meaning' is just a process of thinking something over, including the process of thinking over the words that were percieved and the result of this effort of thought - understanding (as a noun).
+'mind'. The underlying meaning is a verb representing the _process_ of thinking something over, represented in our contemporary English by the verb*s* 'mean' and 'mind'.
+In this sense the proverbial 'meaning' is just a process of thinking something over some experience, including the process of thinking over the words that were percieved and the result of this effort of thought - understanding (as a noun).
 
 meaning = ['explanation', 'explication']
 """
