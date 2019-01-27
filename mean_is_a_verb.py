@@ -12,8 +12,8 @@ noun: meaning
 
     1. what is meant by a word, text, concept, or action.
         "the meaning of the word 'supermarket'" 
-    synonyms:	definition, sense, explanation, denotation,
-        connotation, interpretation, elucidation, explication;
+        synonyms:	definition, sense, explanation, denotation,
+            connotation, interpretation, elucidation, explication;
         "the word has several different meanings"
     2. implied or explicit significance.
         "he gave me a look full of meaning"
